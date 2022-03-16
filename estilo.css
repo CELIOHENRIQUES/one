@@ -1,0 +1,98 @@
+ h3{
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 60pt;
+    color: white;
+}
+body{
+    background-image: url(1.jpg);
+    background-size: cover;
+    width: 99%;
+    height: 50pt;
+    
+}
+div.elleven form{
+
+    border-radius: 15px;
+    background-color: rgb(250, 248, 248);
+    top: 50%;
+    left: 50%;
+    padding: 80px;
+    width: 100pt;
+    height: 210pt;
+    margin-left: 525px;
+            
+}
+ input {
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: -40pt;   
+    border-radius: 50pt;         
+}
+div.art label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+      
+}
+div.elleven img {
+    height: 22pt;
+    width: 30px;
+    margin-top: 10px;
+
+}
+div.one a {
+    text-decoration: none;
+    color: aliceblue;
+    border: solid 0.1px rgba(0, 0, 0, 0.315);
+    background-color: rgba(0, 0, 255, 0.664);
+    margin-left: -45pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+div.twoo a {
+      text-decoration: none;
+      color: aliceblue;
+      border: solid 0.1px rgba(0, 0, 0, 0.315);
+      background-color: rgba(0, 81, 255, 0.664);
+      margin-left: -45pt;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+      border-radius: 20px;
+      margin-top: 5px;
+  }
+
+  p{
+      margin-top: -30pt;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 13pt;
+        
+  }
+  
+  div.rod label {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    margin-left: -45pt;
+    margin-top: 88pt;
+}
+div.rod a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 13pt;
+    text-decoration: none;
+    color: black;
+    margin-left: 75pt;
+ 
+} 
+
+div.tree input {
+    border: solid 0.1px rgba(0, 0, 0, 0.315);
+    background-color: blue;
+    margin-left: -45pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
